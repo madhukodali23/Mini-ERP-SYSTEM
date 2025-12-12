@@ -137,18 +137,20 @@ git clone https://github.com/your-username/mini-erp-project.git
 ---
 
 ### 2️⃣ Backend Setup
+```
 cd backend
 npm install
 node index.js
-
+```
 
 ---
 
 ### 3️⃣ Frontend Setup
+```
 cd frontend
 npm install
 npm start
-
+```
 
 ## 🤝 Contributing
 Pull requests, issues, and improvements are welcome.
